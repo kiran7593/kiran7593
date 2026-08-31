@@ -27,24 +27,22 @@ I enjoy turning ideas into functional applications and continuously improving my
 
 ## 🚀 Featured Projects
 
-### 🎬 React Movie Finder
+### 🎬 [React Movie Finder](https://github.com/kiran7593/react-movie-app)
 A React application that allows users to search for movies and view information using the OMDb API.
 
 **Tech:** React, JavaScript, Vite, REST API
 
-### ✅ Task Manager
+### ✅ [Task Manager](https://github.com/kiran7593/task-manager)
 A full-stack task management application with a React frontend, Express backend, and SQLite database.
 
 **Tech:** React, Node.js, Express, SQLite
 
-### 👤 User Dashboard
+### 👤 [User Dashboard](https://github.com/kiran7593/user-dashboard)
 A React and TypeScript dashboard application featuring user management and API integration.
-
 **Tech:** React, TypeScript, Node.js
 
-### 📝 React To-Do App
+### 📝 [React To-Do App](https://github.com/kiran7593/react-todo-app)
 A responsive task management application built with React and local storage.
-
 **Tech:** React, JavaScript, Vite
 
 ---

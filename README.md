@@ -1,8 +1,8 @@
 # Hi, I'm Kiran 👋
 
-### Junior Web Developer | React | TypeScript | Next.js | Node.js
+### Web Developer | React | TypeScript | Next.js | Node.js
 
-I'm a Junior Web Developer focused on building responsive, user-friendly frontend and full-stack web applications.
+I'm a Web Developer focused on building responsive, user-friendly frontend and full-stack web applications.
 
 I work with React, TypeScript, JavaScript, Next.js, Node.js, Express, REST APIs, and SQL. Through hands-on projects, I've developed applications involving real-time collaboration, database persistence, authentication, application tracking, and API integration.
 
